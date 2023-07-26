@@ -1,0 +1,14 @@
+Package: r-termux-adb
+Version: 1.0.0
+Architecture: aarch64
+Maintainer: @RohitVerma882
+Installed-Size: 8635
+Homepage: https://github.com/RohitVerma882/termux-adb
+Description: prebuilt termux-adb and termux-fastboot from https://github.com/nohajc/termux-adb for Termux.
+Filename: dists/termux/extras/binary-aarch64/r-termux-adb_1.0.0_aarch64.deb
+Size: 2348640
+MD5Sum: aa20138e4a7ebe534bf7b0e74f479c9d
+SHA1: 72e934241dfea390937cfabb32618a1f3899e1e1
+SHA256: c36947180aebfb7cca51c1a58e490d9de7ca5666326ac603abd6658398cae636
+SHA512: bd29c13510f8657cdf3c0aed90e7687028a7679d8972b647f72f87792b358d8f443374a8584b5c3a9f71d9e94f83830226365e65b4b4e8841c0d6a89b2ee094b
+
