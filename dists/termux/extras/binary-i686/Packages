@@ -2,15 +2,15 @@ Package: mi-fastboot
 Version: 1.0.0
 Architecture: i686
 Maintainer: @RohitVerma882
-Installed-Size: 3032
-Homepage: https://github.com/RohitVerma882/miunlock
+Installed-Size: 3034
+Homepage: https://github.com/RohitVerma882
 Description: patched fastboot for miunlock from https://github.com/nohajc/termux-adb for Termux.
 Filename: dists/termux/extras/binary-i686/mi-fastboot_1.0.0_i686.deb
-Size: 1000992
-MD5Sum: 018aa8b4553b4c30818bda2a649bb6d0
-SHA1: e6abecb9dd6294dd4b01d67431cff4d2a2e5c0e5
-SHA256: 9f282bcaf6ad60cbc720327a7a933c8e82454034d94bcff6cd2749770b655e78
-SHA512: 6dbf5bc6e9ff3a4f76e27ebfa0d2c5de86e77aa51d97d8634b9617bbf6e305714096ceaf9863f98729d8d2d04e65a49aad153951276a99b54d8dae921f4fe81e
+Size: 1001932
+MD5Sum: b80c8180c8f0e2fc05b5dc3579eeba7e
+SHA1: 1f13a6f3cadd72ffe443398206acdc0c837f012a
+SHA256: 679c11f77799882eece6ff583a053e546fc4eed2fb6b0a91d6f6dc55713dc857
+SHA512: 5ada98dcb4860ac90e45cfb198b820db181851a5bde925b56309e677c90e2da8a81d97ce33485347c1ecf0f0bd1d8ab80f9a6da9017b963a3cdd7d28c04a4b9f
 
 Package: r-termux-adb
 Version: 1.0.0
