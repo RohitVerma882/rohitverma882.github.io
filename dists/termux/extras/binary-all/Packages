@@ -6,9 +6,9 @@ Installed-Size: 3812
 Homepage: https://github.com/RohitVerma882/termux-miunlock-v2
 Description: A program that can be used to retrieve the bootloader unlock token for Xiaomi devices. (and unlock the bootloader) using Termux
 Filename: dists/termux/extras/binary-all/termux-miunlock_1.0.0_all.deb
-Size: 3492500
-MD5Sum: d8560d0a48471c9d8ca6b6661b7cd380
-SHA1: abccfc885181b7f86ed92903bb5f7dd60242caa7
-SHA256: 9fddf2cde53a7bdcd8d233d27509061adaeb8a36360eeb6e98ee9bd9e7ca5821
-SHA512: 36e415590db2e917eef874f85de2411c3c55e85f74aa95e081b25660900373eb04bed1fe1d91c0edae5f45af0d6897b92a58624ccb1d3c5dbdcfee23ef9771f5
+Size: 3493312
+MD5Sum: 12948f18e6f0bdb81ec604a72cdd98e5
+SHA1: ee1866acc6402fdd62d93e272aa6af961419defb
+SHA256: a38163f021818f2f6b7ab829bf28103dc945bc529de71480187eeab43d102b97
+SHA512: 080559f84eb382c494dd35da636e731be4c3863b97681add828399f3d99239a1cdcdb422fa1a994e744a7e805bf43c81d37057de36d951ec92c31bb74d6abc3b
 
